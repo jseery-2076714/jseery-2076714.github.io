@@ -3,16 +3,25 @@ body {
 }
 
 p {
-  
+  font-weight: bold;
+  color: white;
+  font-family: Arial;
 }
 
 h3 {
-  
+  color: #FFBC00;
+  font-size: 40px;
+  font-family: "Passion One";
+  margin-bottom: 0px;
 }
 
 ul {
   list-style-type: none;
   padding-left: 0px;
+}
+
+div {
+  background-color: #8E41D5;
 }
 
 #Header {
@@ -25,7 +34,10 @@ ul {
 }
 
 #Header h1 {
-  
+  font-size: 60px;
+  font-family: "Passion One";
+  color: #FFBC00;
+  font-weight: bold;
 }
 
 #LeftNav {
