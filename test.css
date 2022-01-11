@@ -1,5 +1,5 @@
 body {
-  
+  background-image: url('dark_wood.png');
 }
 
 p {
@@ -22,6 +22,12 @@ ul {
 
 div {
   background-color: #8E41D5;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
 }
 
 #Header {
