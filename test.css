@@ -86,6 +86,7 @@ a {
 #Footer {
   border: solid 8px black;
   text-align: center;
-  text-decoration: overline;
+  text-decoration-line: overline;
   text-decoration-color: blue;
+  text-decoration-style: double;
 }
