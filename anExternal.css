@@ -16,6 +16,6 @@
 
 #div1 {
   text-align:center; 
-  float:center; 
+  float:left; 
   background-image:linear-gradient(green, yellow);
 }
