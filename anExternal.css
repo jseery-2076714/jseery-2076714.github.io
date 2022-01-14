@@ -4,7 +4,7 @@
 }
 
 #paragraph2 {
-  font: bold 15px Georgia;
+  font: bold 15px Copperplate;
 }
 
 #pic {
@@ -12,4 +12,10 @@
   height: 50px;
   margin: 20px;
   border-radius: 10px;
+}
+
+#div1 {
+  text-align:center; 
+  float:center; 
+  background-image:linear-gradient(green, yellow);
 }
