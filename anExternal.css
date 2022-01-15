@@ -1,10 +1,10 @@
 #paragraph1 {
-  font: 12px Arial;
+  font: 12px Arial, sans-serif;
   border-style: dotted;
 }
 
 #paragraph2 {
-  font: bold 15px Copperplate;
+  font: bold 15px Copperplate, fantasy;
 }
 
 #pic {
